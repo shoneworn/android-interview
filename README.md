@@ -32,7 +32,7 @@
 11. 进程间通讯方式
 12. Binder驱动原理
 13. activity启动流程(不是生命周期)
-14. 几种常用的第三方框架(RXJAVA EVENTBUS等)源码解析
+14. 几种常用的第三方框架(RXJAVA EVENTBUS，OKHTTP等)源码解析
 15. MVP、MVC、MVVM 三种架构的优缺点及在使用中的一些细节
 16. SharedPerference 的两种提交方式commit与apply的区别
 17. 内存泄露
@@ -45,5 +45,12 @@
 24. 混合开发
 25. 热修复技术
 26. 插件化
+27. 大图加载
+28. fragment的使用及生命周期(fragment生命周期与activity生命周期的关系)
+29. fragment+viewpager 懒加载
+30. fragment add()与replace（）的区别及 fragment 回退栈
+
++ 网络方面
+
 
 
