@@ -14,3 +14,36 @@
 11. 单利模式有几种方式？优缺点及可靠性等
 12. jvm及双亲委派机制
 13. 手写常见的排序算法及查找算法
+14. java反射是什么？
+15. java的泛型及使用
+16. java的代理
+
++ android方面
+1. view的事件分发机制
+2. Handler机制
+3. 自定义view
+4. activity生命周期
+5. activity启动模式
+6. Context的区别
+7. Service与IntentService区别
+8. Service的启动方式及区别
+9. BroadcastReceiver注册方式及区别，以及优先级
+10. 线程间通讯方式
+11. 进程间通讯方式
+12. Binder驱动原理
+13. activity启动流程(不是生命周期)
+14. 几种常用的第三方框架(RXJAVA EVENTBUS等)源码解析
+15. MVP、MVC、MVVM 三种架构的优缺点及在使用中的一些细节
+16. SharedPerference 的两种提交方式commit与apply的区别
+17. 内存泄露
+18. 内存溢出
+19. 内存震荡
+20. 内存优化及检查手段
+21. hook技术
+22. JNI的使用
+23. Webview的缺陷及使用
+24. 混合开发
+25. 热修复技术
+26. 插件化
+
+
